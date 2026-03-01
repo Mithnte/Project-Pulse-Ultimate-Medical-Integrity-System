@@ -82,7 +82,7 @@ Stretcher Cleanup: Jangan meninggalkan brankar di jalanan. Gunakan /delstretcher
 ![Status](https://img.shields.io)
 ![Optimized](https://img.shields.io)
 
-Sistem medis tercanggih yang dirancang khusus untuk server **IMERoleplay** (Windah Basudara).
+Sistem medis tercanggih yang dirancang khusus untuk server roleplay paling rame se Indonesia even dunia ehmk ijin ngolah 😁😁
 
 ### ✨ Fitur Eksklusif:
 - **Cinematic Surgery:** Kamera *Top-Down* (Surgeon Simulator Style) otomatis saat operasi.
