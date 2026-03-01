@@ -2,7 +2,7 @@
 Baok
 
 
-🏥 PANDUAN OPERASIONAL MEDIS (IMER-MED SYSTEM)
+🏥 PANDUAN OPERASIONAL MEDIS (MED SYSTEM)
 Selamat bertugas, Tenaga Medis! Sistem ini dirancang untuk memberikan simulasi klinis tingkat lanjut. Pastikan Anda memahami setiap prosedur untuk menghindari malpraktik.
 📋 1. PERINTAH DASAR (COMMANDS)
 Gunakan perintah berikut untuk interaksi cepat di lapangan maupun di rumah sakit:
@@ -76,7 +76,7 @@ Stretcher Cleanup: Jangan meninggalkan brankar di jalanan. Gunakan /delstretcher
 
 
 
-# 🏥 IMER-MED: The Ultimate Clinical Overhaul
+# 🏥 MED: TheClinical Overhaul
 
 ![FiveM](https://img.shields.io)
 ![Status](https://img.shields.io)
